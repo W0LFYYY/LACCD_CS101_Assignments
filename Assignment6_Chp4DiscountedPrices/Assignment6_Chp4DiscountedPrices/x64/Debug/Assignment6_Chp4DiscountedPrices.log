@@ -1,0 +1,6 @@
+﻿  Kakudo_Brandon_Assignment6Ch4DiscountPrices.cpp
+E:\School\Winter 23\CS 101 LACCD\C++ Files\Kakudo_Brandon_Assignment6Ch4DiscountPrices.cpp(20,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\School\Winter 23\CS 101 LACCD\C++ Files\Kakudo_Brandon_Assignment6Ch4DiscountPrices.cpp(21,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\School\Winter 23\CS 101 LACCD\C++ Files\Kakudo_Brandon_Assignment6Ch4DiscountPrices.cpp(22,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\School\Winter 23\CS 101 LACCD\C++ Files\Kakudo_Brandon_Assignment6Ch4DiscountPrices.cpp(23,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Assignment6_Chp4DiscountedPrices.vcxproj -> E:\School\Winter 23\CS 101 LACCD\VS Files\Assignment6_Chp4DiscountedPrices\x64\Debug\Assignment6_Chp4DiscountedPrices.exe

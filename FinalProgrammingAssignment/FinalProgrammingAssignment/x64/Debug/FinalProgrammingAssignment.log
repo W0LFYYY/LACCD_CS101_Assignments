@@ -1,0 +1,3 @@
+﻿  Kakudo_Brandon_FinalProgramAssignmnet.cpp
+E:\School\Winter 23\CS 101 LACCD\C++ Files\Kakudo_Brandon_FinalProgramAssignmnet.cpp(44,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FinalProgrammingAssignment.vcxproj -> E:\School\Winter 23\CS 101 LACCD\VS Files\FinalProgrammingAssignment\x64\Debug\FinalProgrammingAssignment.exe

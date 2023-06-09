@@ -1,0 +1,8 @@
+﻿  Kakudo_Brandon_Program2Ch2_IkeaPurchase.cpp
+E:\School\Winter 23\CS 101 LACCD\C++ Files\Kakudo_Brandon_Program2Ch2_IkeaPurchase.cpp(22,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\School\Winter 23\CS 101 LACCD\C++ Files\Kakudo_Brandon_Program2Ch2_IkeaPurchase.cpp(23,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\School\Winter 23\CS 101 LACCD\C++ Files\Kakudo_Brandon_Program2Ch2_IkeaPurchase.cpp(25,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\School\Winter 23\CS 101 LACCD\C++ Files\Kakudo_Brandon_Program2Ch2_IkeaPurchase.cpp(26,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\School\Winter 23\CS 101 LACCD\C++ Files\Kakudo_Brandon_Program2Ch2_IkeaPurchase.cpp(27,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\School\Winter 23\CS 101 LACCD\C++ Files\Kakudo_Brandon_Program2Ch2_IkeaPurchase.cpp(28,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ProgrammingAssignment2_Ch2IkeaPurchases.vcxproj -> E:\School\Winter 23\CS 101 LACCD\VS Files\ProgrammingAssignment2_Ch2IkeaPurchases\x64\Debug\ProgrammingAssignment2_Ch2IkeaPurchases.exe

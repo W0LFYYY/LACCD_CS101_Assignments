@@ -1,0 +1,5 @@
+﻿  Kakudo_Brandon_Program5Ch5_CompareTriangles.cpp
+E:\School\Winter 23\CS 101 LACCD\C++ Files\Kakudo_Brandon_Program5Ch5_CompareTriangles.cpp(37,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\School\Winter 23\CS 101 LACCD\C++ Files\Kakudo_Brandon_Program5Ch5_CompareTriangles.cpp(58,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\School\Winter 23\CS 101 LACCD\C++ Files\Kakudo_Brandon_Program5Ch5_CompareTriangles.cpp(20,53): warning C4101: 'output': unreferenced local variable
+  Assignment5_Ch5CompareTriangles.vcxproj -> E:\School\Winter 23\CS 101 LACCD\VS Files\Assignment5_Ch5CompareTriangles\x64\Debug\Assignment5_Ch5CompareTriangles.exe

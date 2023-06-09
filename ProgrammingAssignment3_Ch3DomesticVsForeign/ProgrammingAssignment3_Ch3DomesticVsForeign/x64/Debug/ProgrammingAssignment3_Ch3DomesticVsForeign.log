@@ -1,0 +1,4 @@
+﻿  Kakudo_Brandon_Program3Ch3_DomesticVsForeign.cpp
+E:\School\Winter 23\CS 101 LACCD\C++ Files\Kakudo_Brandon_Program3Ch3_DomesticVsForeign.cpp(31,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\School\Winter 23\CS 101 LACCD\C++ Files\Kakudo_Brandon_Program3Ch3_DomesticVsForeign.cpp(32,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ProgrammingAssignment3_Ch3DomesticVsForeign.vcxproj -> E:\School\Winter 23\CS 101 LACCD\VS Files\ProgrammingAssignment3_Ch3DomesticVsForeign\x64\Debug\ProgrammingAssignment3_Ch3DomesticVsForeign.exe
