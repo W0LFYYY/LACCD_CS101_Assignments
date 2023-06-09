@@ -1,0 +1,3 @@
+﻿  Kakudo_Brandon_VideoProj4_Ch5CaloriesBurned.cpp
+E:\School\Winter 23\CS 101 LACCD\C++ Files\Kakudo_Brandon_VideoProj4_Ch5CaloriesBurned.cpp(18,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+  VideoProject4Ch5CaloriesBurned.vcxproj -> E:\School\Winter 23\CS 101 LACCD\VS Files\VideoProject4Ch5CaloriesBurned\x64\Debug\VideoProject4Ch5CaloriesBurned.exe
